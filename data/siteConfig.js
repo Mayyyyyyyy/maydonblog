@@ -88,6 +88,11 @@ module.exports = {
       description: "Xidu Hostel Official Website",
       url: "https://xidu-website-version2.vercel.app"
     },
+     {
+      image: "/images/portfolioCover3.jpeg",
+      description: "Meow free pics",
+      url: "https://meow-free-pictures.vercel.app"
+    },
     /* more portifolio items here */
   ],
   social: {
