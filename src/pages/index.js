@@ -56,12 +56,12 @@ const Home = ({ className, location }) => {
                 {siteConfig.social.github && <a className="social-link github" href={siteConfig.social.github}>
                   <FaGithub className="social-icon" size="32" />
                 </a>}
-                {siteConfig.social.linkedin && <a className="social-link linkedin" href={siteConfig.social.linkedin}>
+                {/* {siteConfig.social.linkedin && <a className="social-link linkedin" href={siteConfig.social.linkedin}>
                   <FaLinkedin className="social-icon" size="32" />
                 </a>}
                 {siteConfig.social.twitter && <a className="social-link twitter" href={siteConfig.social.twitter}>
                   <FaTwitter className="social-icon" size="32" />
-                </a>}
+                </a>} */}
                 {siteConfig.social.email && <a className="social-link email" href={`mailto:${siteConfig.social.email}`}>
                   <FaEnvelope className="social-icon" size="32" />
                 </a>}
@@ -77,8 +77,8 @@ const Home = ({ className, location }) => {
             </Col>
           </Row>
           <Separator />
-          <Timeline />
-          <Separator />
+          {/* <Timeline />
+          <Separator /> */}
           {siteConfig.githubUsername && <Repositories />}
         </Container>
       </Wrapper>

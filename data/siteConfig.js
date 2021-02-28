@@ -1,31 +1,28 @@
 module.exports = {
-  siteTitle: 'Hi! I\'m Francisco!',
+  siteTitle: 'Hi! I\'m May!',
   siteDescription: `Create your online curriculum in just a few minutes with this starter`,
   keyWords: ['gatsbyjs', 'react', 'curriculum'],
-  authorName: 'Francisco Santos',
+  authorName: 'May Don',
   twitterUsername: '_franciscodf',
-  githubUsername: 'santosfrancisco',
+  githubUsername: 'Mayyyyyyyy',
   authorAvatar: '/images/avatar.jpeg',
-  authorDescription: `Developer, passionate about what I do. Always interested in how the sites were made, I started to study HTML by hobby. <br />
-    In 2012 I started working as a support technician and I approached the developers.
-    In 2015, I started to study C # and started to contribute with the team giving maintenance in an application in C # and .NET. <br />
-    I currently work as a frontend developer and mainly work with <strong>Javascript, NodeJS e React.</strong>`,
+  authorDescription: `待写`,
   skills: [
     {
       name: 'HTML',
-      level: 70
+      level: 80
     },
     {
       name: 'CSS',
-      level: 60
+      level: 70
     },
     {
       name: 'Javascript',
-      level: 50
+      level: 60
     },
     {
-      name: 'NodeJs',
-      level: 40
+      name: 'React.Js',
+      level: 60
     },
     {
       name: 'React',
@@ -33,7 +30,7 @@ module.exports = {
     },
     {
       name: 'Git',
-      level: 70
+      level: 50
     },
     /* more skills here */
   ],
@@ -82,22 +79,22 @@ module.exports = {
   ],
   portifolio: [
     {
-      image: "/images/gatsby-starter-cv.png",
-      description: "Gatsby starter CV template",
-      url: "https://www.gatsbyjs.org/starters/santosfrancisco/gatsby-starter-cv/"
+      image: "/images/portfolioCover.jpeg",
+      description: "Generate text as much as u want",
+      url: "https://text-generator-three.vercel.app"
     },
-    {
-      image: "/images/awesome-grid.png",
-      description: "Responsive grid for ReactJS",
-      url: "https://github.com/santosfrancisco/react-awesome-styled-grid"
-    },
+    // {
+    //   image: "/images/awesome-grid.png",
+    //   description: "Responsive grid for ReactJS",
+    //   url: "https://github.com/santosfrancisco/react-awesome-styled-grid"
+    // },
     /* more portifolio items here */
   ],
   social: {
     twitter: "https://twitter.com/_franciscodf",
     linkedin: "https://www.linkedin.com/in/santos-francisco",
-    github: "https://github.com/santosfrancisco",
-    email: "yoshi.df@gmail.com"
+    github: "https://github.com/Mayyyyyyyy",
+    email: "1368302788@qq.com"
   },
   siteUrl: 'https://santosfrancisco.github.io/gatsbystarter-cv',
   pathPrefix: '/gatsby-starter-cv', // Note: it must *not* have a trailing slash.
