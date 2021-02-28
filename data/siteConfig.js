@@ -83,11 +83,11 @@ module.exports = {
       description: "Generate text as much as u want",
       url: "https://text-generator-three.vercel.app"
     },
-    // {
-    //   image: "/images/awesome-grid.png",
-    //   description: "Responsive grid for ReactJS",
-    //   url: "https://github.com/santosfrancisco/react-awesome-styled-grid"
-    // },
+    {
+      image: "/images/portfolioCover2.jpeg",
+      description: "Xidu Hostel Official Website",
+      url: "https://xidu-website-version2.vercel.app"
+    },
     /* more portifolio items here */
   ],
   social: {
