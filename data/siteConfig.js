@@ -80,7 +80,7 @@ module.exports = {
   portifolio: [
     {
       image: "/images/portfolioCover.jpeg",
-      description: "Generate text as much as u want",
+      description: "Text Generater",
       url: "https://text-generator-three.vercel.app"
     },
     {
@@ -92,6 +92,16 @@ module.exports = {
       image: "/images/portfolioCover3.jpeg",
       description: "Meow free pics",
       url: "https://meow-free-pictures.vercel.app"
+    },
+    // {
+    //   image: "/images/portfolioCover4.jpeg",
+    //   description: "Shopping Cart",
+    //   url: "https://meow-free-pictures.vercel.app"  //change url
+    // },
+    {
+      image: "/images/portfolioCover5.jpeg",
+      description: "Spell Game",
+      url: "https://spell-game.vercel.app"
     },
     /* more portifolio items here */
   ],
