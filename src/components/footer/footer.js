@@ -30,8 +30,8 @@ const Footer = ({ className }) => {
       {`© ${new Date().getFullYear()} ${siteConfig.authorName}`}
       <div>
         {github && <Link href={github} icon={FaGithub} />}
-        {twitter && <Link href={twitter} icon={FaTwitter} />}
-        {linkedin && <Link href={linkedin} icon={FaLinkedin} />}
+        {/* {twitter && <Link href={twitter} icon={FaTwitter} />}
+        {linkedin && <Link href={linkedin} icon={FaLinkedin} />} */}
       </div>
     </footer>
   )

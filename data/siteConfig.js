@@ -6,31 +6,31 @@ module.exports = {
   twitterUsername: '_franciscodf',
   githubUsername: 'Mayyyyyyyy',
   authorAvatar: '/images/avatar.jpeg',
-  authorDescription: `待写`,
+  authorDescription: `90后。<br/> 2019年gap期间受法国程序员室友影响，开始自学前端至今。<br/> 一条命令指向一个结果。在这个充满不确定性的世界，很喜欢这样确切直率的事物。<br/>如今想找一份实习，以求技术上更进一步。若看上，请勾搭。`,
   skills: [
     {
-      name: 'HTML',
+      name: 'HTML、CSS、JS',
       level: 80
     },
+    // {
+    //   name: 'Javascript',
+    //   level: 60
+    // },
     {
-      name: 'CSS',
+      name: 'React.Js',
       level: 70
     },
     {
-      name: 'Javascript',
-      level: 60
+      name: 'Vue.js',
+      level: 30
     },
     {
-      name: 'React.Js',
-      level: 60
-    },
-    {
-      name: 'React',
-      level: 60
-    },
-    {
-      name: 'Git',
+      name: 'Others:Jquery、Git、Bootstrap、antd、Sass、Ajax...',
       level: 50
+    },
+    {
+      name: 'English',
+      level: 85
     },
     /* more skills here */
   ],
