@@ -6,7 +6,7 @@ module.exports = {
   twitterUsername: '_franciscodf',
   githubUsername: 'Mayyyyyyyy',
   authorAvatar: '/images/avatar.jpeg',
-  authorDescription: `90后。<br/> 2019年gap期间受法国程序员室友影响，开始自学前端至今。<br/> 一条命令指向一个结果。在这个充满不确定性的世界，很喜欢这样确切直率的事物。<br/>如今想找一份实习，以求技术上更进一步。若看上，请勾搭。`,
+  authorDescription: `90后。<br/> <br/> 2019年gap期间受法国程序员室友影响，开始自学前端至今。<br/><br/>  一条命令指向一个结果。在这个充满不确定性的世界，很喜欢这样确切直率的事物。<br/><br/> 如今想找一份实习，以求技术上更进一步。若看上，请勾搭。`,
   skills: [
     {
       name: 'HTML、CSS、JS',
@@ -25,7 +25,7 @@ module.exports = {
       level: 30
     },
     {
-      name: 'Others:Jquery、Git、Bootstrap、antd、Sass、Ajax...',
+      name: 'Jquery、Git、Bootstrap、antd、Sass、Ajax',
       level: 50
     },
     {
@@ -93,15 +93,20 @@ module.exports = {
       description: "Meow free pics",
       url: "https://meow-free-pictures.vercel.app"
     },
-    // {
-    //   image: "/images/portfolioCover4.jpeg",
-    //   description: "Shopping Cart",
-    //   url: "https://meow-free-pictures.vercel.app"  //change url
-    // },
+    {
+      image: "/images/portfolioCover4.jpeg",
+      description: "Shopping Cart",
+      url: "https://shoppingcart-alpha.vercel.app" 
+    },
     {
       image: "/images/portfolioCover5.jpeg",
       description: "Spell Game",
       url: "https://spell-game.vercel.app"
+    },
+    {
+      image: "/images/portfolioCover6.jpeg",
+      description: "Todo List",
+      url: "https://complete-todo-list-without-losing-data.vercel.app"
     },
     /* more portifolio items here */
   ],
