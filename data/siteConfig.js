@@ -6,7 +6,7 @@ module.exports = {
   twitterUsername: '_franciscodf',
   githubUsername: 'Mayyyyyyyy',
   authorAvatar: '/images/avatar.jpeg',
-  authorDescription: `95后。<br/> <br/> 2019年毕业于西华师大新闻系，而后进行为期一年多的Gap.在瑞典Gap期间受法国程序员室友影响，开始自学前端至今。<br/><br/>  一条命令指向一个结果。在这个充满不确定性的世界，个人很喜欢这样确切直率的事物。<br/><br/> 如今想找一份前端实习，以求技术上更进一步。若看上，请勾搭。<br/><br/> Tel/Wechat:15196778838`,
+  authorDescription: `唐雪梅，95后。<br/> <br/> 2019年毕业于西华师大新闻系，而后进行为期一年多的Gap.在瑞典Gap期间受法国程序员室友影响，开始自学前端至今。<br/><br/>  一条命令指向一个结果。在这个充满不确定性的世界，个人很喜欢这样确切直率的事物。<br/><br/> 如今想找一份前端实习，以求技术上更进一步。若看上，请勾搭。<br/><br/> Tel/Wechat:15196778838`,
   skills: [
     {
       name: 'HTML、CSS、JS',

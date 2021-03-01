@@ -59,9 +59,9 @@ const Home = ({ className, location }) => {
                 {siteConfig.social.blog && <a className="social-link linkedin" href={siteConfig.social.blog}>
                   <FaBlog className="social-icon" size="32" />
                 </a>}
-                {siteConfig.social.phone && <a className="social-link twitter" href={siteConfig.social.phone}>
+                {/* {siteConfig.social.phone && <a className="social-link twitter" href={siteConfig.social.phone}>
                   <FaPhone className="social-icon" size="32" />
-                </a>}
+                </a>} */}
                 {siteConfig.social.email && <a className="social-link email" href={`mailto:${siteConfig.social.email}`}>
                   <FaEnvelope className="social-icon" size="32" />
                 </a>}
